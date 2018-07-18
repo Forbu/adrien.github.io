@@ -9,7 +9,9 @@ I am very interested in all kind of applied mathematics around statistical learn
 
 You want to contact me ?
 Well my phone is : +33.23.80.41.82
+
 My email is : adrienbufort@gmail.com
+
 You can also check my linkedin at https://fr.linkedin.com/in/adrien-bufort-a65901a1 
 
 
