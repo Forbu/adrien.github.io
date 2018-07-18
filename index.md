@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my website !
 
-You can use the [editor on GitHub](https://github.com/Forbu/adrien.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Adrien Bufort a machine learning engineer / data scientist and I work on various project with different kind of data.
+I am currently working on delay flights data at Air France trying to find solution to your flights delay :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am very interested in all kind of applied mathematics around statistical learning and data analysis.
 
-### Markdown
+### Contacts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You want to contact me ?
+Well my phone is : +33.23.80.41.82
+My email is : adrienbufort@gmail.com
+You can also check my linkedin at https://fr.linkedin.com/in/adrien-bufort-a65901a1 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Forbu/adrien.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
